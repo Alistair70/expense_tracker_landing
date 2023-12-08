@@ -5,3 +5,4 @@ document.getElementById("toSignup").addEventListener("click", function() {
     window.location.href = "https://expense-tracker-signup.netlify.app";
 });
 
+console.log('hi')
