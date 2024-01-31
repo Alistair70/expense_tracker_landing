@@ -17,6 +17,6 @@ function cookieCheck()
     if(document.cookie.split(';').some((item) => item.trim().startsWith(`${cookie_name}=`)))
     {
         console.log("true")
-        window.location.href = "https://expense-tracker-dash-board.netlify.app";
+        window.location.href = "https://dashboard.expense-tracker-demo.site";
     }
 }
