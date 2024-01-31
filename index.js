@@ -2,7 +2,7 @@
     window.location.href = "https://login.expense-tracker-demo.site/";
 });
 document.getElementById("toSignup").addEventListener("click", function() {
-    window.location.href = "https://expense-tracker-signup.netlify.app";
+    window.location.href = "https://signup.expense-tracker-demo.site";
 });
 
 document.addEventListener('DOMContentLoaded', function () {
